@@ -1,3 +1,3 @@
 # Go Fundamentos
 
-Em construção
+Em construção...
