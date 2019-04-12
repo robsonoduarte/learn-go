@@ -1,4 +1,4 @@
 # Go Fundamentos
 
-* [Hello World]()
-* [Commandos]()
+* [Hello World](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/primeiro/primeiro.go)
+* [Commandos](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/primeiro/comandos.go)
