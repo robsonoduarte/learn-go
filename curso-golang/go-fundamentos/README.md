@@ -5,4 +5,4 @@
 * [Constantes e Variavéis](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/constvar/constvar.go)
 * [Prints](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/prints/prints.go)
 * [Tipos Básicos](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/tipos/tipos.go)
-* [Valores Defaults](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/defaults/defaults.go)
+* [Valores Default](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/default/default.go)
