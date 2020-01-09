@@ -9,3 +9,4 @@
 * [Conversões](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/conversoes/conversoes.go)
 * [Funções](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/funcoes/funcoes.go)
 * [Operadores Aritiméticos](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/aritimeticos/aritimeticos.go)
+* [Operadores de Atribuição](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/atribuicao/atribuicao.go)
