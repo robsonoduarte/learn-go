@@ -8,5 +8,5 @@
 * [Valores Default](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/default/default.go)
 * [Conversões](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/conversoes/conversoes.go)
 * [Funções](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/funcoes/funcoes.go)
-* [Operadores Aritiméticos](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/aritimeticos/aritimeticos.go)
+* [Operadores Aritiméticos](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/aritmeticos/aritmeticos.go)
 * [Operadores de Atribuição](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/atribuicao/atribuicao.go)
