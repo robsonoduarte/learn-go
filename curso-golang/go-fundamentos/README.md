@@ -11,3 +11,5 @@
 * [Operadores Aritiméticos](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/aritmeticos/aritmeticos.go)
 * [Operadores de Atribuição](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/atribuicao/atribuicao.go)
 * [Operadores de Relacionais](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/relacionais/relacionais.go)
+* [Operadores de Lógicos](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/logicos/logicos.go)
+
