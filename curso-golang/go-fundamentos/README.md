@@ -14,4 +14,5 @@
 * [Operadores de Lógicos](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/logicos/logicos.go)
 * [Operadores Unários](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/unario/unario.go)
 * [Operadores Ternários](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/ternario/ternario.go)
+* [Ponteiros](https://github.com/robsonoduarte/learn-go/blob/master/curso-golang/go-fundamentos/ponteiro/ponteiro.go)
 
