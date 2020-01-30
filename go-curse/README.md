@@ -1,5 +1,5 @@
 # [Go (Golang): Curse](https://www.udemy.com/curso-go/)
 
 
-* [Fundamentasl](https://github.com/robsonoduarte/learn-go/tree/master/go-curse/fudamentals)
+* [Fundamentals](https://github.com/robsonoduarte/learn-go/tree/master/go-curse/fudamentals)
 * [Structures of Controls](https://github.com/robsonoduarte/learn-go/tree/master/go-curse/controls)
