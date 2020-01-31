@@ -10,6 +10,12 @@ func main() {
 	fmt.Println(testGrade(6.9))
 	fmt.Println(testGrade(-1.0))
 
+
+	fmt.Println(_type("Hello"))
+	fmt.Println(_type(func() {}))
+	fmt.Println(_type(time.Hour))
+
+
 	t := time.Now()
 	switch {
 	case t.Hour() < 12:
@@ -36,5 +42,20 @@ func testGrade(grade float64) string {
 		return "E"
 	default:
 		return "Invalid Grade"
+	}
+}
+
+func _type(i interface{}) string {
+	switch i.(type) {
+	case int:
+		return "int"
+	case float32, float64:
+		return "float"
+	case string:
+		return "string"
+	case func():
+		return "func"
+	default:
+		return "type not found"
 	}
 }
