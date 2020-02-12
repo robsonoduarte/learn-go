@@ -6,3 +6,4 @@
 * [Slice Make](https://github.com/robsonoduarte/learn-go/blob/master/go-curse/array-slice-map/slicemake/slicemake.go)
 * [Slice Internal Array](https://github.com/robsonoduarte/learn-go/blob/master/go-curse/array-slice-map/sliceinternalarray/sliceinternalarray.go)
 * [Slice Append Copy](https://github.com/robsonoduarte/learn-go/blob/master/go-curse/array-slice-map/sliceappendcopy/sliceappendcopy.go)
+* [Map](https://github.com/robsonoduarte/learn-go/blob/master/go-curse/array-slice-map/map/map.go)
