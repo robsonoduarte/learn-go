@@ -5,3 +5,4 @@
 * [Named Return](https://github.com/robsonoduarte/learn-go/blob/master/go-curse/functions/named/named.go)
 * [First Class Functions](https://github.com/robsonoduarte/learn-go/blob/master/go-curse/functions/firstclass/firstclass.go)
 * [Function as Parameter](https://github.com/robsonoduarte/learn-go/blob/master/go-curse/functions/parameter/parameter.go)
+* [Variadic Functions](https://github.com/robsonoduarte/learn-go/blob/master/go-curse/functions/variadic/variadic.go)
