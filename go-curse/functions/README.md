@@ -9,3 +9,4 @@
 * [Closure](https://github.com/robsonoduarte/learn-go/blob/master/go-curse/functions/closure/closure.go)
 * [Recursion](https://github.com/robsonoduarte/learn-go/blob/master/go-curse/functions/recursion/recursion.go)
 * [Defer](https://github.com/robsonoduarte/learn-go/blob/master/go-curse/functions/defer/defer.go)
+* [Pointer](https://github.com/robsonoduarte/learn-go/blob/master/go-curse/functions/pointer/pointer.go)
