@@ -5,3 +5,5 @@
 * [Structures of Controls](https://github.com/robsonoduarte/learn-go/tree/master/go-curse/controls)
 * [Array Slice Map](https://github.com/robsonoduarte/learn-go/tree/master/go-curse/array-slice-map)
 * [Functions](https://github.com/robsonoduarte/learn-go/tree/master/go-curse/functions)
+* [Type System](https://github.com/robsonoduarte/learn-go/tree/master/go-curse/type-system)
+
