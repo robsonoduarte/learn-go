@@ -2,13 +2,15 @@ package main
 
 import "fmt"
 
+// declare the type
 type score float64
 
+// and use the receivers to add methods on custom type
 func (s score) inside(start, end float64) bool {
 	return float64(s) >= start && float64(s) <= end
 }
 
-func x(s score) string {
+func applyScore(s score) string {
 	switch {
 	case s.inside(9.0, 10.0):
 		return "A"
@@ -24,7 +26,9 @@ func x(s score) string {
 }
 
 func main() {
-	fmt.Println(x(9))
-	fmt.Println(x(6.9))
-	fmt.Println(x(2.1))
+	fmt.Println(applyScore(9))
+	fmt.Println(applyScore(6.9))
+	fmt.Println(applyScore(2.1))
 }
+
+// more about receivers => https://tour.golang.org/methods/4
